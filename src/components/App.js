@@ -25,7 +25,7 @@ export default function App() {
 					<Link to="/add/1">Route(/add/1)</Link>
 					<Link to="/add/2">Route(/add/2)</Link>
 					<Link to="/test">Route(test) --> using code splitting</Link>
-					<Link to="/test">Route(test) --> UPdate to aws</Link>
+					<Link to="/test">Route(test) --> UPdate to-> aws</Link>
 				</div>
 				<Switch>
 					<Route
